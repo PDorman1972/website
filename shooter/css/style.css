@@ -1,0 +1,60 @@
+body {
+    width: 1024px;
+    margin: 0 auto;
+    font-family: "Londrina Solid", serif;
+    background-size: 100% 1024px;
+    background-color: #2b2727;
+}
+
+h1 {
+    margin: 20px 0 10px 0;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+}
+
+h2 {
+    text-shadow: 2px 2px #7a0000;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    width: 1024px;
+    margin: 0 auto;
+    font-family: "Londrina Solid", serif;
+    color: #fff42b;
+    text-align: center;
+    font-size: 12px;
+    bottom: 0;
+    text-shadow: 2px 2px #7a0000;
+}
+
+#spaceshooter {
+    width:800px;
+    margin: 10px auto;
+}
+
+#spaceshooter-instructions {
+    height: 400px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#instructs h2 {
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+}
+
+footer {
+    position: absolute;
+    margin: 0;
+    bottom: 0;
+}
