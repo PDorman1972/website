@@ -54,8 +54,8 @@ footer {
     align-items: center;
     justify-self: center;
     box-shadow: 10px 10px 20px #ffffff;
-    width: 40%;
-    gap: 10px;
+    width: 60%;
+    gap: 50px;
     background-color: #8f8f8f;
     border-radius: 20px;
     border: 2px solid #ffffff;
@@ -68,7 +68,7 @@ footer {
 
 .game-img {
     width: 100%;
-    height: 100px;
+    height: 150px;
 }
 
 .game-img img {
