@@ -54,7 +54,8 @@ footer {
     align-items: center;
     justify-self: center;
     box-shadow: 10px 10px 20px #ffffff;
-    width: 60%;
+    width: 50%;
+    height: 250px;
     gap: 50px;
     background-color: #8f8f8f;
     border-radius: 20px;
