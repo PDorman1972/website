@@ -50,7 +50,6 @@ footer {
 .game {
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
     justify-self: center;
     box-shadow: 10px 10px 20px #ffffff;
@@ -75,6 +74,7 @@ footer {
 .game-img img {
     width: 100%;
     height: 100%;
+    display: block;
 }
 
 .game-title {
